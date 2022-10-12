@@ -1,1 +1,1 @@
-scripts that prints
+scripts
