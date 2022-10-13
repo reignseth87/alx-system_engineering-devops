@@ -1,1 +1,1 @@
-a scripts that prints Hello, World
+first bash
